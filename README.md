@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Danielcharis
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Vue javascript framework
-- 💞️ I’m looking to collaborate on vue related project
+- 👀 I’m interested in front-end development and data analytics
+- 🌱 I’m currently working on a front end project using Vue
+- 💞️ I’m looking to collaborate on vue related and data analytics project 
 - 📫 How to reach me dcbrandme@gmail.com
 - ⚡ Fun fact: 1*1 will always be 1 so stay true to who yourself
 
